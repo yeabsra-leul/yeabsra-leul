@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/yeabsra-leul">
-    Yeabsra Leulseged
-  </a>
-</p>
+[<img src="https://raw.githubusercontent.com/yeabsra-leul/yeabsra-leul/master/intro.gif" alt="👋 Hi there! I'm (Yeabsra(Leulseged)|https://yeabsra.leul)" title="👋 Hi there! I'm (Yeabsra(Leulseged)|https://yeabsra.leul)"/>](https://yeabsra.leul/)
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
