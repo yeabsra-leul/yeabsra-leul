@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/yeabsra-leul/yeabsra-leul/master/intro.gif" alt="👋 Hi there! I'm (Yeabsra(Leulseged)|https://yeabsra.leul)" title="👋 Hi there! I'm (Yeabsra(Leulseged)|https://yeabsra.leul)"/>](https://yeabsra.leul/)
+ # 𝙃𝙚𝙡𝙡𝙤, I'm Yeabsra
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -59,7 +59,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeabsra-leul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=yeabsra-leul&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
