@@ -1,4 +1,4 @@
- # 𝙃𝙚𝙡𝙡𝙤, I'm Yeabsra
+ <p align="center">Yeabsra Leulseged</p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
