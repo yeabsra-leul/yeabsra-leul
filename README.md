@@ -58,7 +58,6 @@ I help startups and teams turn ideas into production-ready MVPs — using **Next
   </a>
 </div>
 
-<p align="left">💼 Also available on <a href="https://www.upwork.com/freelancers/~0129ae0b013aa3a107" target="_blank"><b>Upwork</b></a></p>
 
 ###
 
