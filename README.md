@@ -7,6 +7,10 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;React;Next.js;Angular;Node.js;Nest.js;Supabase;ASP.NET;5%2B%20years%20of%20experience;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+## 👋 About Me
+I'm **Yeabsra**, a full-stack engineer building fast, reliable, and scalable web applications.  
+I help startups and teams turn ideas into production-ready MVPs — using **Next.js**, **Supabase**, and **modern web technologies**.  
+
 ###
 ## 🛠  Technologies and tools
 <div align="left">
@@ -34,6 +38,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
 </div>
+
+## 🚀 Featured Projects
+
+- 🧠 [TaskFlow](https://github.com/yeabsra-leul/taskflow) — Kanban project management tool built with Next.js, Supabase, Stripe and drag-and-drop UX.  
+- 💬 [Unmuted](https://github.com/yeabsra-leul/unmuted-social-forum-platform) — an open-source social forum platform for open & unfiltered conversation built with Next.js + Tailwind + Postgres + Prisma + Redis.  
 
 ###
 ## 🌐  Socials
