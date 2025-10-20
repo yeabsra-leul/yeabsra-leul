@@ -75,3 +75,5 @@ I help startups and teams turn ideas into production-ready MVPs — using **Next
 
 | <a href="https://github.com/yeabsra-leul/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yeabsra-leul&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/yeabsra-leul/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeabsra-leul&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+![snake gif](https://github.com/yeabsra-leul/yeabsra-leul/blob/output/github-snake-dark.svg)
