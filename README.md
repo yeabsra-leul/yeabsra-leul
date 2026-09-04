@@ -41,7 +41,7 @@ I help startups and teams turn ideas into production-ready MVPs — using **Next
 
 ## 🚀 Featured Projects
 
-- 🧠 [TaskFlow](https://github.com/yeabsra-leul/taskflow) — Kanban project management tool built with Next.js, Supabase, Stripe and drag-and-drop UX.  
+- 🧠 [TaskFlow](https://github.com/yeabsra-leul/taskflow) — An ai powered kanban style project management tool tool built with Next.js, Supabase, Stripe and drag-and-drop UX.  
 - 💬 [Unmuted](https://github.com/yeabsra-leul/unmuted-social-forum-platform) — an open-source social forum platform for open & unfiltered conversation built with Next.js + Tailwind + Postgres + Prisma + Redis.  
 
 ###
